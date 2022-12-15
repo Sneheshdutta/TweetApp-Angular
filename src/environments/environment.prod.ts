@@ -1,5 +1,5 @@
 export let baseUrl = {
-  apiUrl: "http://13.233.24.154:8080/api/v1.0/tweets",
+  apiUrl: "http://3.108.39.206:8080/api/v1.0/tweets",
 }
 
 export const environment = {
